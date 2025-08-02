@@ -11,7 +11,7 @@ Just a simple little love message animation
 ## How to Use
 1. Clone or download this repository.
 2. Open `index.html` in your browser.
-3. Click the **"Click Me"** text and enjoy the surprise!
+3. Click the **"Toxun"** text and enjoy the surprise!
 
 ## Technologies Used
 - HTML5 & CSS3
